@@ -2,9 +2,7 @@
 <?php include 'view/sidebar.php'; ?>
 <section>
     <h1>Featured products</h1>
-    <p>My Guitar Shop has a great selection of
-        musical instruments including guitars, basses, and drums. And we're
-        constantly adding more to give you the best selection possible!
+    <p>My PC Hardware Shop has a great selection of computer parts
     </p>
     <table>
     <?php foreach ($products as $product) :
