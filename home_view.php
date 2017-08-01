@@ -2,7 +2,7 @@
 <?php include 'view/sidebar.php'; ?>
 <section>
     <h1>Featured products</h1>
-    <p>My PC Hardware Shop has a great selection of computer parts
+    <p>Our PC Hardware Shop has a great selection of computer parts at a very modest price.
     </p>
     <table>
     <?php foreach ($products as $product) :
